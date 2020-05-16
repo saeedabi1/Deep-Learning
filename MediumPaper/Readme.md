@@ -1,4 +1,7 @@
 
+Slideshare.com: https://www.slideshare.net/GulyaTimokhina/a-survey-of-stabilizing-generative-adversarial-networks
+
+
 Stabilizing Generative Adversarial Networks: A Survey 
 
 Based on https://arxiv.org/pdf/1910.00927.pdf
