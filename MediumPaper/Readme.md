@@ -1,5 +1,6 @@
 
 Stabilizing Generative Adversarial Networks: A Survey 
+
 Based on https://arxiv.org/pdf/1910.00927.pdf
 
 Generative Adversarial Networks (GANs) are generative models that are very popular since 
@@ -13,8 +14,11 @@ A Generative Adversarial Network (GAN) is a generative model trained by deep lea
 similarly convolutional neural networks. Generative models can be seen as an unsupervised task that discovers patterns in input data which can be used to generate new examples from the original dataset. The GAN method was originally described in Ian Goodfellow’s paper, titled “Generative Adversarial Networks.” (2014)
 
 The Generative Adversarial Networks model has two sub-models: 
+
 ●	Generator (G) model to generate new samples 
+
 ●	Discriminator (D) model to classify whether generated samples are real or fake
+
 
 It’s like a game. The generator creates new samples. And the discriminator tries to differentiate samples between the input data and from the generator. As a result of such confrontational training, GANs can generate realistic images. 
 GANs accomplish state-of-the-art results in the generation of images, NLP, time-series and other domains.
