@@ -1,9 +1,13 @@
 
+
+A Survey of Stabilizing Generative Adversarial Networks 
+
+
 Medium article: https://medium.com/@gulnara.timokhina/a-survey-of-stabilizing-generative-adversarial-networks-f5b6198f83fb
+
 Slideshare.com: https://www.slideshare.net/GulyaTimokhina/a-survey-of-stabilizing-generative-adversarial-networks
 
 
-Stabilizing Generative Adversarial Networks: A Survey 
 
 Based on https://arxiv.org/pdf/1910.00927.pdf
 
