@@ -1,5 +1,6 @@
 
 Profit maximization from LendingClub  investment.
+
 From Wikipedia: “LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California.[3] It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. LendingClub is the world's largest peer-to-peer lending platform.”
  
 Lending Club is a company that matches borrowers who are looking for a loan and  investors who lend money and make a profit from return. Borrower submit an application, providing necessary info, like  loan amount, employment info, financial history, loan purpose and etc.. Lending Club evaluates borrower’s credit report information and assigns an interest rate to the loan.
