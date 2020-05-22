@@ -17,7 +17,7 @@ We have small fraction of negative samples.
 We  want to have the classifier heavily weight the negative examples. You do this by passing Keras weights for every class through a parameter. These will push the model to "pay attention" to samples from an underrepresented class.
 
 I tried to play with different number of layers and different hyperparameters.
-The best accuracy(65% ) using  3 hidden layers.
+The best accuracy(72% ) using  3 hidden layers.
 Resampling using SMOTE  did not improve accuracy.
 
  
