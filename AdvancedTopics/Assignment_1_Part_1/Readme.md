@@ -6,13 +6,12 @@ Example: When we have pathology slides from patients and we want to predict if a
 Provided program is based on MNIST dataset.
 
 Each instance xi in one bag has a label yi. 
+
 Define the label of the bag as:
-
 Y = 1, if there exists a yi such that yi ==1
-
 Y = 0, if for every yi such that yi == 0
 
-MIL process:
+MIL process implemented:
 1.	Pre-train the ResNet model on the instance-labeled dataset 
 2.	Feed the bag-labeled dataset in the model and extract features. 
 3.	Finally, we apply MIL on extracted features.
