@@ -8,7 +8,9 @@ Provided program is based on MNIST dataset.
 Each instance xi in one bag has a label yi. 
 
 Define the label of the bag as:
+
 Y = 1, if there exists a yi such that yi ==1
+
 Y = 0, if for every yi such that yi == 0
 
 MIL process implemented:
