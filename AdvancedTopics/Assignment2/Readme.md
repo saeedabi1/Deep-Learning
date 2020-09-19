@@ -2,4 +2,4 @@
 
 2. Using the mixup, label smoothing, cutout and test time augmentation on Cifar10 data set.
 
-3. Cloud TPU practice
+3. Cloud TPU practice(BERT model)
